@@ -88,7 +88,7 @@ curl -X POST http://localhost:8000/predict \
 
 ### Run Tests
 ```bash
-pytest tests/ -v
+..\.venv\Scripts\python.exe -m pytest tests/ -v
 ```
 
 ### Docker
